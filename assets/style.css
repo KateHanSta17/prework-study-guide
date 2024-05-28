@@ -36,6 +36,7 @@ p {
     .card {
         width: 80%;
         margin: 40px auto;
-        border: 5px #2980B9;
-        box-shadow: 5px 10px #AEB6BF;
+        border: 10px #2980B9;
+        border-style: double;
+        box-shadow: 5px 10px gray;
     }
